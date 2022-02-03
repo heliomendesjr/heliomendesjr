@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Trbalho com C#.net
+- 🔭 Trabalho com C#.net
 - 🌱 Estudando JavaScript
 
 <div>
