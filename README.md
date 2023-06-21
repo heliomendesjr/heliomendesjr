@@ -1,7 +1,7 @@
 # Hi there, I'm Hélio (he/him) 👋
 # Connect with Me
 <a href = "mailto:helio.msj@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/hélio-mendes-saraiva-junior-412738205/](https://www.linkedin.com/in/hélio-mendes-412738205/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/hélio-mendes-412738205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 # GitHub Statistics
