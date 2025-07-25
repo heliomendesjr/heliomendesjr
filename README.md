@@ -1,15 +1,18 @@
 # Hi there, I'm Hélio (he/him) 👋
-# Connect with Me
-<a href = "mailto:helio.msj@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/hélio-mendes-412738205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
-# GitHub Statistics
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heliomendesjr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+I am a tech-savvy learner who is passionate about new technologies and solving real-world problems. I firmly believe that software is the ultimate tool for enhancing people's lives and I am a strong supporter of open-source. In my GitHub, you will find several different projects in different languages such as TypeScript, Java, Python, Go and others. The projects are a mix of open-source projects and personal experiments.
 
-# Contributions
-  <div>
-  
-  ![Snake animation](https://github.com/heliomendesjr/heliomendesjr/blob/output/github-contribution-grid-snake.svg)
+
+## Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/hélio-mendes-412738205/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="auto" height="50px">
+  </a>
+</p>
+
+## Statistics
+
+<p float="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoneperdigao&show_icons=true&theme=dark&layout=donut" width="50%" height="auto" align="top" /> 
+</p>
